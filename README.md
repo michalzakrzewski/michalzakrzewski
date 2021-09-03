@@ -1,4 +1,4 @@
-### Hi there 👋
+### Witaj! 👋
 Jestem absolwentem Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie, gdzie ukończyłem
 kierunek Teleinformatyka z tytułem magister inżynier. Podczas studiów zainteresował mnie język Java, którego
 zacząłem systematycznie się uczyć i robię to po dzień dzisiejszy. Do niego dołączyła nauka technologii Spring Boot i
