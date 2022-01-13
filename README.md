@@ -17,8 +17,6 @@ pokrewnych.
 - [Linkedin](https://www.linkedin.com/in/zakrzewski-michal/)
 - [E-mail](mailto:michal.zakrzewsky@gmail.com)
 
-### Moje statystyki 📈
-![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzakrzewski&show_icons=true&theme=onedark)
 <!--
 **michalzakrzewski/michalzakrzewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
